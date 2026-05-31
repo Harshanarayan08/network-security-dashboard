@@ -1,0 +1,6 @@
+vulnerability,severity,packet_count,avg_cvss,pct_of_traffic
+HTTP Credential,CRITICAL,27,9.1,0.27
+ARP Spoof,CRITICAL,205,8.1,2.05
+Session Hijack,HIGH,14,7.5,0.14
+DNS Poisoning,HIGH,53,7.4,0.53
+Port Scan,MEDIUM,185,4.0,1.85

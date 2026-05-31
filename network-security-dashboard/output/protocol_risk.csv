@@ -1,0 +1,8 @@
+protocol,total_packets,malicious_packets,malicious_rate_pct
+ARP,1210,224,18.51
+DNS,1173,79,6.73
+HTTP,1840,60,3.26
+TCP,969,31,3.2
+ICMP,474,12,2.53
+HTTPS,3553,69,1.94
+UDP,781,9,1.15
